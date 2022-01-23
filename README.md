@@ -28,5 +28,5 @@
 <!-- wp:table {"hasFixedLayout":true,"className":"is-style-regular"} -->
 <figure class="wp-block-table is-style-regular"><table class="has-fixed-layout"><tbody><tr><td>Windows 10</td><td>OK</td></tr><tr><td>Windows 11</td><td>OK</td></tr></tbody></table></figure>
 <!-- /wp:table -->
-The tool in action:<br>
-![W11 support - Long](https://user-images.githubusercontent.com/74212904/150674305-0b75f748-cac2-4ad8-a67a-c50504406123.gif)
+The tool in action (running on Windows 11):<br>
+![Alt Text](https://user-images.githubusercontent.com/74212904/150674404-9d806336-2981-4f6b-9d1f-adc6f170104b.gif)
