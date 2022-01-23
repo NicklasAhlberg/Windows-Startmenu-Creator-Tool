@@ -21,3 +21,10 @@
 <!-- wp:paragraph {"fontSize":"medium"} -->
 <p class="has-medium-font-size">....Rock Enroll<strong>!</strong></p>
 <!-- /wp:paragraph -->
+<!-- wp:paragraph {"fontSize":"normal"} -->
+<p class="has-normal-font-size"><s>No support for Windows 11 as for now. I will work on that!</s><br>Edit: Good news! support for Windows 11 has been added.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:table {"hasFixedLayout":true,"className":"is-style-regular"} -->
+<figure class="wp-block-table is-style-regular"><table class="has-fixed-layout"><tbody><tr><td>Windows 10</td><td>OK</td></tr><tr><td>Windows 11</td><td>OK</td></tr></tbody></table></figure>
+<!-- /wp:table -->
